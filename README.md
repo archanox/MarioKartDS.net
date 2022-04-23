@@ -1,2 +1,2 @@
 # MarioKartDS.net
-Reimplementation of Mario Kaert DS in C#
+Reimplementation of Mario Kart DS in C#
